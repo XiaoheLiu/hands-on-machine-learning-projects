@@ -11,6 +11,7 @@ images/**/*.png
 images/**/*.dot
 datasets/
 data/
+my_logs/
 
 .venv
 .vscode
